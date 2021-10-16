@@ -1,5 +1,5 @@
-# undervalued-NFT
- A model that identifies undervalued NFTs.
+# Finding the undervalued NFT
+ A decision tree model that identifies undervalued NFTs.
  
  
 This notebook will compare the following 7 collections and assess which collection is undervalued by rank ordering the fair prices predicted from a Decision Tree algorithm. The prediction of the price is based on all collections with similar features and the price they were sold for in the past.
