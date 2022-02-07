@@ -17,7 +17,7 @@
 	<span>┃</span>
   <a href="https://twitter.com/messages/compose?text=DM%20text&recipient_id=794664237721329664" style="margin-top: 12px;">
   <img  align="center" alt="elenahoo | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-	  <code>@hoolupoodalz</code>
+	  <code>@elenahoolu</code>
 </a>
 <br />
 
