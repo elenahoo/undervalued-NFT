@@ -1,3 +1,33 @@
+<div align="center">
+<a href="https://mail.google.com/mail/u/?authuser=elenahoo@gmail.com">
+  <img align="center" alt="elenahoo | Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
+	<code>elenahoo@gmail.com</code>
+</a>
+	<span> ┃ </span>
+	
+<a href="https://t.me/elenahoo">
+  <img align="center" alt="elenahoo | Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
+	<code>@elenahoo</code>
+</a>
+	<span>┃</span>
+  <a href="https://discordapp.com/channels/@me/E.Hu#6754/" style="margin-top: 12px;">
+  <img  align="center" alt="Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+	  <code>E.Hu#6754</code>
+</a>
+	<span>┃</span>
+  <a href="https://twitter.com/messages/compose?text=DM%20text&recipient_id=794664237721329664" style="margin-top: 12px;">
+  <img  align="center" alt="elenahoo | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+	  <code>@hoolupoodalz</code>
+</a>
+<br />
+
+</div>
+	
+<div align="center">
+  <strong>For questions, discussions and freelance work, please feel free to reach out! </strong>
+</div>
+<br />
+
 # Finding the undervalued NFT
  A decision tree model that identifies undervalued NFTs. Article of the analysis published in Medium: https://elenahoo.medium.com/finding-the-undervalued-nft-37fbda641fcd
  
